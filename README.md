@@ -1,4 +1,4 @@
-# Test Plan Generator
+# Test Case Generator
 
 A Python-based project for generating comprehensive test plans using AutoGen agents. This tool facilitates the creation of detailed, structured test cases for various software systems, including functional, load, security, and integration tests.
 
@@ -23,8 +23,8 @@ Ensure you have the following installed:
 ### Steps
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-repo/test-plan-generator.git
-    cd test-plan-generator
+    git clone https://github.com/your-repo/testcasegenerator.git
+    cd testcasegenerator
     ```
 2. Set up a virtual environment (optional):
     ```bash
