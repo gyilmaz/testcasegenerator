@@ -1,4 +1,3 @@
-"""Main script for running the book generation system"""
 from config import get_config
 from agents import QAAgents
 from testplan_generator import TestPlanGenerator
